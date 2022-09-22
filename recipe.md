@@ -1,4 +1,4 @@
-# Cake recipe
+# Carrot cake recipe from my grandmother
 
 ## Summary
 
